@@ -1,0 +1,5 @@
+
+NAMES.DEFAULT_DOMAIN=local
+NAMES.DIRECTORY_PATH=(TNSNAMES,EZCONNECT)
+sqlnet_encryption_client = required
+sqlnet.encryption_types_client = (AES256)
