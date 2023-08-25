@@ -3,7 +3,7 @@ module containertest
 go 1.20
 
 require (
-	github.com/sijms/go-ora/v2 v2.7.15
+	github.com/sijms/go-ora/v2 v2.7.16
 	github.com/tommi2day/gomodules v1.9.4
 )
 
